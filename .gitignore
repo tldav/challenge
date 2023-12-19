@@ -1,0 +1,12 @@
+**/node_modules
+**/.gradle
+**/.idea
+**/build
+**/.env
+**/target
+
+**/z_IGNORE
+**/IGNORE
+**/rando
+**/z_RANDO
+**/notes
