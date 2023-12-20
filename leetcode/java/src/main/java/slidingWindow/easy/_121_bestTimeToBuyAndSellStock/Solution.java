@@ -1,7 +1,8 @@
 package slidingWindow.easy._121_bestTimeToBuyAndSellStock;
 
 public class Solution {
-    // 7, 1, 5, 3, 6, 4
+    // Input: [7, 1, 5, 3, 6, 4]
+    // Expect: 5
     
     public int solve(int[] prices) {
         int lowestPrice = prices[0];
