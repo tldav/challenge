@@ -1,9 +1,9 @@
-package neetToOrganizeThese;
+package hash.usage.easy._1_TwoSum;
 
 import behavior.ToStringBehavior;
 
 // https://leetcode.com/problems/two-sum/
-public class TwoSum {
+class TwoSum_BruteForce {
     public static ToStringBehavior tsb = ToStringBehavior.getInstance();
     
     public static void main(String[] args) {

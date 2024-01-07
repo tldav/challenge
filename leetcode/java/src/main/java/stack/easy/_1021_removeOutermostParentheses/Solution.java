@@ -2,7 +2,7 @@ package stack.easy._1021_removeOutermostParentheses;
 
 import java.util.*;
 
-public class Solution {
+class Solution {
     
     private final Map<Character, Character> bracketMap = new HashMap<>() {{
         put(')', '(');

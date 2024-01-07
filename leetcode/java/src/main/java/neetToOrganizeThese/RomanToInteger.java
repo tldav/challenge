@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
-public class RomanToInteger {
+class RomanToInteger {
     public static void main(String[] args) {
     
         Stack<Integer> meh = new Stack<>();

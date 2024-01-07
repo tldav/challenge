@@ -2,7 +2,7 @@ package stack.easy._1021_removeOutermostParentheses;
 
 import behavior.ToStringBehavior;
 
-public class _1021_RemoveOutermostParentheses {
+class _1021_RemoveOutermostParentheses {
     /** PRIMITIVE
      * starts with ( and doesn't end until first ( is closed
      * ((())) <- primitive

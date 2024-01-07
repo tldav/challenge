@@ -2,7 +2,7 @@ package stack.easy._20_validParentheses;
 
 import behavior.ToStringBehavior;
 
-public class _20_ValidParentheses {
+class _20_ValidParentheses {
     private static final ToStringBehavior tsb = ToStringBehavior.getInstance();
     
     public static void main(String[] args) {

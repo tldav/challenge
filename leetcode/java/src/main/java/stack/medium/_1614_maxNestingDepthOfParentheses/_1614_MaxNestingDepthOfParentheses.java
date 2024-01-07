@@ -1,6 +1,6 @@
 package stack.medium._1614_maxNestingDepthOfParentheses;
 
-public class _1614_MaxNestingDepthOfParentheses {
+class _1614_MaxNestingDepthOfParentheses {
     /**
      * can we count every push between pops?
      *      highestPush count = keep track of this

@@ -1,6 +1,6 @@
 package slidingWindow.medium._2461_maximumSumOfDistinctSubarraysWithLengthK;
 
-public class Solution {
+class Solution {
     // Input: nums = [1, 5, 4, 2, 9, 9, 9], k = 3
     // Expect: 15
     
@@ -8,7 +8,17 @@ public class Solution {
     
     public long maximumSubarraySum(int[] nums, int k) {
         int maxSum = 0;
+        
+        int windowStart = 0;
+        int windowEnd = k - 1;
         int finalCycleIndex = nums.length - k;
+        int tempSum = 0;
+        for (int i = windowStart; i < k; i ++) {
+            tempSum += nums[i];
+            windowStart ++;
+        }
+        
+        
         for (int i = 0; i < finalCycleIndex; i++) {
             if (nums[i] == 69) System.out.println("poop");
             if (i < k) {

@@ -2,7 +2,7 @@ package neetToOrganizeThese;
 
 import behavior.ToStringBehavior;
 
-public class PalindromeNumber {
+class PalindromeNumber {
     public static ToStringBehavior tsb = ToStringBehavior.getInstance();
     
     public static void main(String[] args) {
