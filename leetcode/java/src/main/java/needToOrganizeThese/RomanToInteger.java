@@ -1,4 +1,4 @@
-package neetToOrganizeThese;
+package needToOrganizeThese;
 
 import java.util.HashMap;
 import java.util.Map;

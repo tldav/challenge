@@ -1,4 +1,4 @@
-package neetToOrganizeThese;
+package needToOrganizeThese;
 
 import behavior.ToStringBehavior;
 
