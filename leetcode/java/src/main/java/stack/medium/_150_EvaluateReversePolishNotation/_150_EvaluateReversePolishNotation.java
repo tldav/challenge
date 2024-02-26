@@ -1,4 +1,4 @@
-package stack.easy._150_EvaluateReversePolishNotation;
+package stack.medium._150_EvaluateReversePolishNotation;
 
 class _150_EvaluateReversePolishNotation {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package stack.easy._150_EvaluateReversePolishNotation;
+package stack.medium._150_EvaluateReversePolishNotation;
 
 import java.util.List;
 import java.util.Stack;
